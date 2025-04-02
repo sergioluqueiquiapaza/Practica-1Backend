@@ -1,0 +1,1 @@
+El proyecto consiste en la gestion de una universidad, donde se tiene Docentes , Estudiantes y materias. Por el momento solo se tiene el CRUD de la clase estudiante contando con el almacenamiento de datos en memoria, a futuro se integrara con PostgreSQL
